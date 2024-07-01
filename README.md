@@ -1,3 +1,3 @@
 # financial_advisory_genai
 
-![alt text](BOBHackathon_architecture.png)
+![alt text](financial_advisory_rag_architecture.png)
