@@ -1,56 +1,56 @@
-,date,description,amount,type,category
-0,2024-10-04,upi/rvsl410167169470/jyci3nm 6tc79ye2/zerodhamf@hdfcb/hdfc bank ltd/hdfb3dc312f972c40a6b5b 6a9ae4efb92,3250.0,CR,Investments
-1,2024-10-04,upi/410167169470/jyci3nm6tc7 9ye2/zerodhamf@hdfcb/hdfc bank ltd/hdfb3dc312f972c40a6b5b 6a9ae4efb929b/,3250.0,DR,Investments
-2,2024-10-04,ach/fin indian clearing/icic600000001510811 7/98158508,3000.0,DR,Income
-3,2024-08-04,upi/409962224435/modicare/7016 488945@payt//icif0e7ce4d85224e 3996e0e1521e738e0a/,1256.0,DR,Medical
-4,2024-08-04,upi/409859037928/na/thewarehou sesto//ici089076f0610b4a5e8fd88f 3cbad9a3b9/,1999.0,DR,Income
-5,2024-05-04,neft-n096242970654761- intuitive technology partners india-neft salary mar itpl144 50200073- 50200,56300.0,CR,Income
-6,2024-04-04,upi/409545784791/678089146835 199/zerodhabroking@//icib94fccc0 b7df4ac6935f89c998340259/,10000.0,DR,Investments
-7,2024-02-04,upi/409337274114/na/zerodhabro king@//ici498bb2c698ae4ae09b22 b0e48b8d727a/,5000.0,DR,Investments
-8,2024-10-04,upi/410170403019/self-upi paymen/shuklaaditya473//ici19e77 f0d12f24251aad7bb881e7693bd/,3500.0,DR,Income
-9,2024-02-19,upi/405073879252/747510000980 292/zerodhabroking@//ici2348176 3650c47dab10704a755937caf/,5000.0,DR,Investments
-10,2024-02-16,upi/404764785767/006929488946 886/zerodhabroking@//ici3966919 1c10f4c2cbbb17e748c6d947e/,5000.0,DR,Investments
-11,2024-02-16,upi/rvsl404764783025/2121956 33971935/zerodha.razorpa/icici bank/icic46a3c4bfb77402fbb7785 62a9107126,5000.0,CR,Investments
-12,2024-02-16,upi/404764783025/212195633971 935/zerodha.razorpa/icici bank/icic46a3c4bfb77402fbb7785 62a9107126/,5000.0,DR,Investments
-13,2024-02-15,upi/404660955619/car-upi payment/8000803100@payt//ici12 155041de244efab1b5243b2dd5e3d 7/,12400.0,DR,Transport
-14,2024-02-14,bil/000797241472/gpt/431581348 683900,2042.35,DR,Bills
-15,2024-02-13,upi/404453553685/098341973883 394/zerodhabroking@//ici4ba6aa3 d701b4b31bfb497cd5c975540/,5000.0,DR,Investments
-16,2024-12-02,ach/fin indian clearing/icic600000001510811 7/87630086,3000.0,DR,Income
-17,2024-12-02,vsi/google play/202402101504/4041093514 18/,159.0,DR,Entertainment
-18,2024-01-19,upi/401979592282/ipo/800080310 0@jupi/hdfc bank ltd/axijup768562062424072332 63895601505,100000.0,CR,Investments
-19,2024-01-15,upi/401549034202/medic/paytmqr kzh4dfa0//ici65edde0100fa4b1bbf133fc2b25df42e/,252.0,DR,Medical
-20,2024-01-15,upi/401548983406/medic/8239153 689@axl//icifb9ef94e76c34847a6a 2091781d97ba1/,350.0,DR,Medical
-21,2024-01-13,upi/401343451056/na/paytm- 91839718@//ici1291d826a564402 081e711aa7a6acf49/,150.0,DR,Shopping
-22,2024-12-01,upi/401239921503/plumber/paytm qr28100505//iclb78aae8442224d9 c9defc2a45b0d48c3/,1070.0,DR,Utilities
-23,2024-10-01,vsi/google play/202401101504/4010095239 94/,159.0,DR,Shopping
-24,2024-10-01,upi/401026255777/addmoney/a ditya shukla/federal bank/axijup81806440964303677 876095559ddp/,7000.0,DR,Income
-25,2024-10-01,upi/401032302134/self-upi paymen/8000803100@hdfc//icic52bf158847649f6bb636facf4b60384/,38000.0,DR,Income
-26,2024-10-06,ach/indian clearing corp/icic7021005243001394/fec1rkr546o4,2000.0,DR,Investments
-27,2024-10-06,ach/indian clearing corp/icic7021005243001394/28 6mazgy9l28,4225.0,DR,Investments
-28,2024-10-06,ach/indian clearing corp/icic7021005243001394/t9 x8wnafx2nk,1000.0,DR,Investments
-29,2024-10-06,ach/fin indian clearing/icic600000001510811 7/108399171,3000.0,DR,Income
-30,2024-07-06,upi/415906111023/na/q74602155 8@ybl//iclb53648ca853f4fcdbaa7f 4465f767e4f/,1000.0,DR,Income
-31,2024-06-06,upi/415801473972/upi payment/kataauto14255@b//ici07c7e1eb02c4414e8fd69f238d8aa690/,460.0,DR,Transport
-32,2024-06-06,upi/415801471727/upi payment/kataauto14255@b//icia9 95c607e17f4518998770a9e4a78a1 0/,2000.0,DR,Transport
-33,2024-06-06,upi/415801346051/na/havmorsob o@icic/icici bank/ici5f06fe9dbea2400fba33868 57b0cd207/:unselected:,334.0,DR,Income
-34,2024-10-06,vsi/google play/202406101504/4162097800 65/,159.0,DR,Shopping
-35,2024-10-06,upi/416216762563/upi payment/jilshukla3- 1@ok//ici2438ea1462344f0b8ae06 5202a76a0f4/,2000.0,DR,Income
-36,2024-03-28,upi/408817354466/911842491476 874/zerodhabroking@//icie2d1d7f6d3d64d71af02326a8d9093fe/,5000.0,DR,Investments
-37,2024-03-27,bil/000817021074/icici bank credit ca/431581348683,2039.14,DR,Income
-38,2024-03-27,upi/408713926739/na/paytm- 8817518@p//ici4c3edc690e1b45f1 b0c559342db59b98/,150.0,DR,Income
-39,2024-03-25,upi/408405395967/na/q07858908 6@ybl//ici9fb674bc23e84be7a328 a59983ecc312/,1000.0,DR,Income
-40,2024-03-23,upi/408303108052/na/q89875457 3@ybl//ici65a095e50fce4928a037 393a2a7e57f1/,400.0,DR,Income
-41,2024-03-23,upi/408303008383/na/q04924758 4@ybl//icic49fbfaac66a4dac8f60f0 03c5e3fc55/,1932.0,DR,Income
-42,2024-03-23,upi/408301758285/self-upi paymen/8000803100@payt//ici97 9fa62f9bff4f8f9d7ff5fa6b8428d3/,5000.0,DR,Income
-43,2024-03-23,upi/408300708300/na/q97807442 6@ybl//icldf9d3a19ca404842aa65 b4b549457150/,2000.0,DR,Income
-44,2024-03-22,upi/408297089684/na/q55734194 3@ybl//ici32f8dc8f7cec41c68542fb 425c9daafd/,100.0,DR,Income
-45,2024-03-21,upi/408195293731/na/paytmqr281 00505//icicb6921f9c54f49edbf6974e01d4b992a/,305.0,DR,Shopping
-46,2024-05-20,upi/414024645127/na/849007070 7@okbi//ici82ee8d2252a14951bda507ff37df6641/,50.0,DR,Income
-47,2024-05-18,upi/413919539104/upi payment/8000803100@payt//icibb 35243c4981407da01bfccf022d815 0/,500.0,DR,Income
-48,2024-05-15,upi/413608031698/na/paytm- 83543600@//ici42c6b3b89f06409dba5044213901e256/,295.0,DR,Shopping
-49,2024-05-15,upi/413607397260/upi payment/kishorvyas268@o//iciad0 ecc77159c454da8f2726247016128 /,5000.0,DR,Income
-50,2024-05-14,upi/413504281956/upi payment/shuklaaditya473//ici6eefb 1dd4d0941dc8f8d60f3e8ead518/,2000.0,DR,Income
-51,2024-05-14,upi/413504227281/upi payment/shuklaaditya473//icif444e f7a92a64846a0d22d71f6711cca/,2000.0,DR,Income
-52,2024-05-14,mmt/imps/413512497173/imps transactiozerodha br/hdfc bank,1.0,CR,Investments
-53,2024-05-14,upi/rvsl413504043587/pa2h3lh ewdfnpcn/bsestarmfrzp@ic/icici bank/ici2fa76baa11da42e7a3dee9 05c2f054ac,2000.0,CR,Income
-54,2024-05-20,upi/414126100028/upi payment/8000803100@payt//ici95 9c5d9e2bf341118c7ec00fc2564235 /,1500.0,DR,Income
+date,description,amount,type,category
+10-04-2024,upi/rvsl410167169470/jyci3nm 6tc79ye2/zerodhamf@hdfcb/hdfc bank ltd/hdfb3dc312f972c40a6b5b 6a9ae4efb92,3250,CR,Credit
+05-04-2024,neft-n096242970654761- intuitive technology partners india-neft salary mar itpl144 50200073- 50200,56300,CR,Credit
+16-02-2024,upi/rvsl404764783025/2121956 33971935/zerodha.razorpa/icici bank/icic46a3c4bfb77402fbb7785 62a9107126,5000,CR,Credit
+19-01-2024,upi/401979592282/ipo/800080310 0@jupi/hdfc bank ltd/axijup768562062424072332 63895601505,100000,CR,Credit
+14-05-2024,mmt/imps/413512497173/imps transactiozerodha br/hdfc bank,1,CR,Credit
+14-05-2024,upi/rvsl413504043587/pa2h3lh ewdfnpcn/bsestarmfrzp@ic/icici bank/ici2fa76baa11da42e7a3dee9 05c2f054ac,2000,CR,Credit
+10-04-2024,upi/410167169470/jyci3nm6tc7 9ye2/zerodhamf@hdfcb/hdfc bank ltd/hdfb3dc312f972c40a6b5b 6a9ae4efb929b/,3250,DR,Investments
+10-04-2024,ach/fin indian clearing/icic600000001510811 7/98158508,3000,DR,Investments
+08-04-2024,upi/409962224435/modicare/7016 488945@payt//icif0e7ce4d85224e 3996e0e1521e738e0a/,1256,DR,Medical
+08-04-2024,upi/409859037928/na/thewarehou sesto//ici089076f0610b4a5e8fd88f 3cbad9a3b9/,1999,DR,Income
+04-04-2024,upi/409545784791/678089146835 199/zerodhabroking@//icib94fccc0 b7df4ac6935f89c998340259/,10000,DR,Investments
+02-04-2024,upi/409337274114/na/zerodhabro king@//ici498bb2c698ae4ae09b22 b0e48b8d727a/,5000,DR,Investments
+10-04-2024,upi/410170403019/self-upi paymen/shuklaaditya473//ici19e77 f0d12f24251aad7bb881e7693bd/,3500,DR,Self Transfer
+19-02-2024,upi/405073879252/747510000980 292/zerodhabroking@//ici2348176 3650c47dab10704a755937caf/,5000,DR,Investments
+16-02-2024,upi/404764785767/006929488946 886/zerodhabroking@//ici3966919 1c10f4c2cbbb17e748c6d947e/,5000,DR,Investments
+16-02-2024,upi/404764783025/212195633971 935/zerodha.razorpa/icici bank/icic46a3c4bfb77402fbb7785 62a9107126/,5000,DR,Investments
+15-02-2024,upi/404660955619/car-upi payment/8000803100@payt//ici12 155041de244efab1b5243b2dd5e3d 7/,12400,DR,Auto
+14-02-2024,bil/000797241472/gpt/431581348 683900,2042.35,DR,Bills
+13-02-2024,upi/404453553685/098341973883 394/zerodhabroking@//ici4ba6aa3 d701b4b31bfb497cd5c975540/,5000,DR,Investments
+12-02-2024,ach/fin indian clearing/icic600000001510811 7/87630086,3000,DR,Income
+12-02-2024,vsi/google play/202402101504/4041093514 18/,159,DR,Shopping
+15-01-2024,upi/401549034202/medic/paytmqr kzh4dfa0//ici65edde0100fa4b1bbf133fc2b25df42e/,252,DR,Medical
+15-01-2024,upi/401548983406/medic/8239153 689@axl//icifb9ef94e76c34847a6a 2091781d97ba1/,350,DR,Medical
+13-01-2024,upi/401343451056/na/paytm- 91839718@//ici1291d826a564402 081e711aa7a6acf49/,150,DR,Shopping
+12-01-2024,upi/401239921503/plumber/paytm qr28100505//iclb78aae8442224d9 c9defc2a45b0d48c3/,1070,DR,Utilities
+10-01-2024,vsi/google play/202401101504/4010095239 94/,159,DR,Shopping
+10-01-2024,upi/401026255777/addmoney/a ditya shukla/federal bank/axijup81806440964303677 876095559ddp/,7000,DR,Transaction
+10-01-2024,upi/401032302134/self-upi paymen/8000803100@hdfc//icic52bf158847649f6bb636facf4b60384/,38000,DR,Self Transfer
+10-06-2024,ach/indian clearing corp/icic7021005243001394/fec1rkr546o4,2000,DR,Investments
+10-06-2024,ach/indian clearing corp/icic7021005243001394/28 6mazgy9l28,4225,DR,Investments
+10-06-2024,ach/indian clearing corp/icic7021005243001394/t9 x8wnafx2nk,1000,DR,Investments
+10-06-2024,ach/fin indian clearing/icic600000001510811 7/108399171,3000,DR,Investments
+07-06-2024,upi/415906111023/na/q74602155 8@ybl//iclb53648ca853f4fcdbaa7f 4465f767e4f/,1000,DR,Misc
+06-06-2024,upi/415801473972/upi payment/kataauto14255@b//ici07c7e1eb02c4414e8fd69f238d8aa690/,460,DR,Transport
+06-06-2024,upi/415801471727/upi payment/kataauto14255@b//icia9 95c607e17f4518998770a9e4a78a1 0/,2000,DR,Transport
+06-06-2024,upi/415801346051/na/havmorsob o@icic/icici bank/ici5f06fe9dbea2400fba33868 57b0cd207/:unselected:,334,DR,Transaction
+10-06-2024,vsi/google play/202406101504/4162097800 65/,159,DR,Entertainment
+10-06-2024,upi/416216762563/upi payment/jilshukla3- 1@ok//ici2438ea1462344f0b8ae06 5202a76a0f4/,2000,DR,Transaction
+28-03-2024,upi/408817354466/911842491476 874/zerodhabroking@//icie2d1d7f6d3d64d71af02326a8d9093fe/,5000,DR,Investments
+27-03-2024,bil/000817021074/icici bank credit ca/431581348683,2039.14,DR,Bills
+27-03-2024,upi/408713926739/na/paytm- 8817518@p//ici4c3edc690e1b45f1 b0c559342db59b98/,150,DR,Transaction
+25-03-2024,upi/408405395967/na/q07858908 6@ybl//ici9fb674bc23e84be7a328 a59983ecc312/,1000,DR,Transaction
+23-03-2024,upi/408303108052/na/q89875457 3@ybl//ici65a095e50fce4928a037 393a2a7e57f1/,400,DR,Transaction
+23-03-2024,upi/408303008383/na/q04924758 4@ybl//icic49fbfaac66a4dac8f60f0 03c5e3fc55/,1932,DR,Transaction
+23-03-2024,upi/408301758285/self-upi paymen/8000803100@payt//ici97 9fa62f9bff4f8f9d7ff5fa6b8428d3/,5000,DR,Self Transfer
+23-03-2024,upi/408300708300/na/q97807442 6@ybl//icldf9d3a19ca404842aa65 b4b549457150/,2000,DR,Transaction
+22-03-2024,upi/408297089684/na/q55734194 3@ybl//ici32f8dc8f7cec41c68542fb 425c9daafd/,100,DR,Transaction
+21-03-2024,upi/408195293731/na/paytmqr281 00505//icicb6921f9c54f49edbf6974e01d4b992a/,305,DR,Transaction
+20-05-2024,upi/414024645127/na/849007070 7@okbi//ici82ee8d2252a14951bda507ff37df6641/,50,DR,Transaction
+18-05-2024,upi/413919539104/upi payment/8000803100@payt//icibb 35243c4981407da01bfccf022d815 0/,500,DR,Transaction
+15-05-2024,upi/413608031698/na/paytm- 83543600@//ici42c6b3b89f06409dba5044213901e256/,295,DR,Shopping
+15-05-2024,upi/413607397260/upi payment/kishorvyas268@o//iciad0 ecc77159c454da8f2726247016128 /,5000,DR,Transaction
+14-05-2024,upi/413504281956/upi payment/shuklaaditya473//ici6eefb 1dd4d0941dc8f8d60f3e8ead518/,2000,DR,Self Transfer
+14-05-2024,upi/413504227281/upi payment/shuklaaditya473//icif444e f7a92a64846a0d22d71f6711cca/,2000,DR,Self Transfer
+20-05-2024,upi/414126100028/upi payment/8000803100@payt//ici95 9c5d9e2bf341118c7ec00fc2564235 /,1500,DR,Transaction
