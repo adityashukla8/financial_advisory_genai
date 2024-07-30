@@ -21,7 +21,7 @@ azure-core
 azure-ai-formrecognizer
 requests
 ipdb
-llama-index-experimental
+llama-index-experimental==0.1.3
 llama_index.llms
 llama_index.core
 langchain-openai
