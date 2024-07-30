@@ -26,7 +26,7 @@ llama_index.core
 langchain-openai
 typing
 matplotlib
-azure-storage
+azure-storage-blob
 openai
 azure-identity
 langchain-experimental
