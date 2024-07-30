@@ -22,3 +22,15 @@ azure-ai-formrecognizer
 requests
 ipdb
 llama-index-experimental
+llama_index.llms
+llama_index.core
+langchain-openai
+typing
+matplotlib
+azure-storage
+openai
+azure-identity
+langchain-experimental
+azure-ai-ml
+azure-ai-formrecognizer
+azure-ai-documentintelligence
