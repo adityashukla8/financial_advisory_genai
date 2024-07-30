@@ -21,3 +21,4 @@ azure-core
 azure-ai-formrecognizer
 requests
 ipdb
+llama-index-experimental
