@@ -143,7 +143,20 @@ qa = ConversationalRetrievalChain.from_llm(
 
 chat_history = []
 # }}} 
-query = "Products for young adults"
-qa_result = qa({"question": query, "chat_history": chat_history})
+
+def query_vector_db(query):
+    qa_result = qa({
+        "question": query,
+        "chat_history": chat_history,
+    })
+
+    sources = []
+    for i in qa_result['source_documents']:
+        sources.append(i.metadata['source'])
+    
+    qa_result = {'answer': qa_result['answer'], "sources": sources}
+    
+    return qa_result
+
 
 #TODO: increase azure ai search quota to index entire data

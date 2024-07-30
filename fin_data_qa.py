@@ -134,7 +134,7 @@ net.save_graph('query_pipeline_dag.html')
 # }}} 
 # {{{ run pipeline
 
-def get_financial_insights(query):
+def analyze_financial_data(query):
     response = qp.run(query_str = query)
     return response.message.content
 # }}}
