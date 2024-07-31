@@ -152,7 +152,7 @@ class SearchInvestmentOptionsTool(BaseTool):
 
 tools = [FinancialDataAnalysisTool(), RecommendProductsTool(), StockPriceLookupTool(), SearchInvestmentOptionsTool()]
 
-llm = ChatOpenAI(temperature=0, model='gpt-3.5-turbo')
+llm = ChatOpenAI(temperature=0, model='gpt-4o-mini')
 
 open_ai_agent = initialize_agent(
     tools,
@@ -177,7 +177,8 @@ def get_response(query, chat_history):
     Chat history: {chat_history}
     User question: {user_question}
 
-    Note: In your answer, always summarize briefly what the question was."""
+    Note:
+    - Always provide concise, accurate and invormative, well formatted response, in bullets whenever possible/needed."""
 
     prompt = ChatPromptTemplate.from_template(template)
 
@@ -203,7 +204,7 @@ for message in st.session_state.chat_history:
             st.markdown(message.content)
 
 template_questions = [
-    "Share insights from my spending habits and ways to optimize",
+    "Analyze my spending habits and share ways to optimize",
     "Based on my goals, recommend some BoB products",
     "As per my risk profile, can you suggest some investment options?",
 ]

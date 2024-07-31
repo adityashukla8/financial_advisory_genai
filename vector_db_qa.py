@@ -119,7 +119,7 @@ vector_store = AzureSearch(
 #     search_type='similarity'
 # )
 # }}} 
-llm = AzureChatOpenAI(deployment_name='RG210-openai-35turbo', openai_api_key=AZURE_OPENAI_API_KEY, temperature=0.1, api_version = OPENAI_API_VERSION)
+llm = AzureChatOpenAI(deployment_name='RG210-openai-gpt4o', openai_api_key=AZURE_OPENAI_API_KEY, temperature=0.1, api_version = OPENAI_API_VERSION)
 # {{{ initialize prompt and qa chain 
 
 prompt_template = """You are an expert financial advisor from Bank of Baroda, assisting users with specific Bank of Baroda products based on their financial data and user profile.
