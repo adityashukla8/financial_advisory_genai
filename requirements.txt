@@ -26,6 +26,7 @@ llama_index.core
 llama-index-llms-azure-openai
 langchain-openai
 typing
+typing-extensions
 matplotlib
 azure-storage-blob
 openai
@@ -34,3 +35,4 @@ langchain-experimental
 azure-ai-ml
 azure-ai-formrecognizer
 azure-ai-documentintelligence
+azure-search-documents
