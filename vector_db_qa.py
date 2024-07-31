@@ -20,7 +20,6 @@ from langchain.prompts import PromptTemplate
 
 import matplotlib.pyplot as plt
 
-import pickle
 import os
 import json
 from typing import Iterable

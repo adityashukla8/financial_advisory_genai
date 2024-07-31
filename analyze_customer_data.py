@@ -11,9 +11,6 @@ from langchain_openai import AzureOpenAI
 
 import pandas as pd
 import io
-import time
-import json
-import requests
 import os
 from dotenv import load_dotenv
 load_dotenv()

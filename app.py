@@ -60,7 +60,7 @@ class RecommendProductsInput(BaseModel):
 
 class RecommendProductsTool(BaseTool):
     name = 'query_vector_db'
-    description = """Useful when you want to recommend products or investment options or answer any Bank of Baroda specific questions.
+    description = """Useful when you want to recommend products or answer any Bank of Baroda specific questions.
     Note: always provide accurate and invormative, well formatted response."""
 
     def _run(self, query: str):
@@ -125,7 +125,7 @@ class SearchInvestmentOptionsInput(BaseModel):
 
 class SearchInvestmentOptionsTool(BaseTool):
     name = 'search_investment_options'
-    description = """useful when you want to search google for finding investment options/list of good stocks, based on user's risk profile and investment goals. 
+    description = """useful when you want to search google to suggest investment options/list of good stocks, based on user's risk profile and investment goals. 
     Note:
     - Always reformat the input query in a way that will give the best search results.
     - Search strictly for India specific. 
@@ -175,7 +175,9 @@ def get_response(query, chat_history):
     template = """You are an expert financial advisor at Bank of Baroda, assisting users with informative and accurate answers.
 
     Chat history: {chat_history}
-    User question: {user_question}"""
+    User question: {user_question}
+
+    Note: In your answer, always summarize briefly what the question was."""
 
     prompt = ChatPromptTemplate.from_template(template)
 
@@ -199,6 +201,27 @@ for message in st.session_state.chat_history:
     else:
         with st.chat_message('AI'):
             st.markdown(message.content)
+
+template_questions = [
+    "Share insights from my spending habits and ways to optimize",
+    "Based on my goals, recommend some BoB products",
+    "As per my risk profile, can you suggest some investment options?",
+]
+
+st.markdown("Try out:")
+
+cols = st.columns(len(template_questions))
+
+for i, question in enumerate(template_questions):
+    if cols[i].button(question):
+        user_query = question
+        st.session_state.chat_history.append(HumanMessage(user_query))
+        with st.chat_message("Human"):
+            st.markdown(user_query)
+        with st.chat_message("AI"):
+            ai_response = get_response(user_query, st.session_state.chat_history)
+            st.markdown(ai_response)
+        st.session_state.chat_history.append(AIMessage(ai_response))
 
 user_query = st.chat_input("Your message...")
 
