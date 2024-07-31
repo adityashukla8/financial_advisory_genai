@@ -178,7 +178,9 @@ def get_response(query, chat_history):
     User question: {user_question}
 
     Note:
-    - Always provide concise, accurate and invormative, well formatted response, in bullets whenever possible/needed."""
+    - Always provide concise, accurate and invormative, well formatted response, in bullets whenever possible/needed.
+    - Make sure never share specific user information (phone number, email id etc.) apart from names.
+    """
 
     prompt = ChatPromptTemplate.from_template(template)
 
