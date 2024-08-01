@@ -12,7 +12,9 @@ GenAI can be leveraged in Financial and Investment Advisory tasks to provide com
     - Current market trends
 
 This git repo demonstrates a high-level implementation of these use cases, showcasing the potential of GenAI in enhancing financial and investment advisory services.
-
+### Demo: 
+https://rg210-appservice.azurewebsites.net/ 
+Alt.: https://fin-advisory-bot.streamlit.app/
 ### Architecture
 ![alt text](financial_advisory_rag_architecture.png)
 
