@@ -168,7 +168,7 @@ if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
 
 st.set_page_config(page_title='BoB Bot', page_icon='🏆')
-st.title('BoB Bot - Financial Advisory')
+st.title('BoB Bot - Financial & Investment Advisory')
 
 # get response
 def get_response(query, chat_history):
