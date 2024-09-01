@@ -98,7 +98,7 @@ flattened_chunked_docs = [doc for docs in chunked_docs for doc in docs]
 # {{{ initialize Azure embeddings, vector DB and add data 
 
 embeddings = AzureOpenAIEmbeddings(
-    azure_deployment='RG210-openai-ada',
+    azure_deployment='text-embedding-ada-002',
     openai_api_version=OPENAI_API_VERSION,
     azure_endpoint = AZURE_OPENAI_ENDPOINT,
     api_key=AZURE_OPENAI_API_KEY
@@ -119,7 +119,7 @@ vector_store = AzureSearch(
 #     search_type='similarity'
 # )
 # }}} 
-llm = AzureChatOpenAI(deployment_name='RG210-openai-gpt4o', openai_api_key=AZURE_OPENAI_API_KEY, temperature=0.1, api_version = OPENAI_API_VERSION)
+llm = AzureChatOpenAI(deployment_name='gpt-35-turbo', openai_api_key=AZURE_OPENAI_API_KEY, temperature=0.1, api_version = OPENAI_API_VERSION)
 # {{{ initialize prompt and qa chain 
 
 prompt_template = """You are an expert financial advisor from Bank of Baroda, assisting users with specific Bank of Baroda products based on their financial data and user profile.
